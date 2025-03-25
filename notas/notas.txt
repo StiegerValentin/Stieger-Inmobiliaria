@@ -1,0 +1,4 @@
+dotnet add package MySql.Data --version 9.2.0
+
+
+Server=3306;Database=stieger_inmobiliaria;Uid=ROOT;Pwd=;
